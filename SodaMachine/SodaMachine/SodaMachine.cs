@@ -32,10 +32,7 @@ namespace SodaMachine
 
 
         //methods 
-        //public void SelectedSoda(string value)
-        //{
-        //    if (selectedSoda )
-        //}
+
 
         public double PaymentForSoda()
         {
